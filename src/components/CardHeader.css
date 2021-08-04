@@ -1,0 +1,26 @@
+.aired {
+    color: #fff;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 0 auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    display: block;
+    text-align: center;
+    width: 45%;
+    padding: 0px 0px;
+    background: rgb(49, 144, 232);
+    box-shadow: 2px 2px 0px 0px #b9ddfdbe;
+    z-index: 1;
+    background: rgb(49, 144, 232);
+    background: -moz-linear-gradient(90deg, rgba(49, 144, 232, 1) 0%, rgba(33, 97, 157, 1) 100%);
+    background: -webkit-linear-gradient(
+90deg
+, rgba(49, 144, 232, 1) 0%, rgba(33, 97, 157, 1) 100%);
+    background: linear-gradient(
+90deg
+, rgba(49, 144, 232, 1) 0%, rgba(33, 97, 157, 1) 100%);
+
+}

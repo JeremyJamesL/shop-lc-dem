@@ -1,0 +1,21 @@
+.results-header__pagination nav {
+    justify-content: start !important;   
+}
+
+.results-header__sorting div {
+    justify-content: flex-end !important;
+}
+
+.results-header__pagination  button {
+    border: none!important;
+    background: transparent!important;
+}
+
+.results-header__pagination  .css-wioabx {
+    border: none!important;
+    background: transparent!important;
+}
+
+.results-header__pagination  button[aria-label*="current page"] {
+    background: #3190E8!important;
+}

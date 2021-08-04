@@ -1,0 +1,17 @@
+.now-price {
+    color: #b10b0b;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.was-price {
+    text-decoration: line-through;
+    font-size: 13px;
+    color: black;
+}
+
+.regular-price {
+    color: #3190E8;
+    font-size: 18px;
+    font-weight: bold;
+}

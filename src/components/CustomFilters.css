@@ -1,0 +1,40 @@
+.btnn {
+    padding: 5px 7px;
+
+    position: relative;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    line-height: 1.5;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    -webkit-transition-property: background-color,border-color,color,fill,stroke,opacity,box-shadow,-webkit-transform;
+    -webkit-transition-property: background-color,border-color,color,fill,stroke,opacity,box-shadow,transform;
+    transition-property: background-color,border-color,color,fill,stroke,opacity,box-shadow,transform;
+    -webkit-transition-duration: 150ms;
+    transition-duration: 150ms;
+    -webkit-transition-timing-function: cubic-bezier(0.4,0,0.2,1);
+    transition-timing-function: cubic-bezier(0.4,0,0.2,1);
+    border-width: 1px;
+    border-color: #667eea;
+    border-style: solid;
+    cursor: pointer;
+    font-family: inherit;
+    height: auto;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    font-size: 0.75rem;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    background-color: transparent;
+    line-height: inherit;
+    color: #667eea;
+    text-transform: uppercase;
+}

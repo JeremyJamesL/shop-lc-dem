@@ -1,0 +1,13 @@
+
+.logo {
+    width: 150px;
+}
+
+.icon-area:not(:last-child) {
+    margin-right: 5rem;
+}
+
+.icon-area__title {
+    font-size: 14px;
+    color: #333333;
+}
